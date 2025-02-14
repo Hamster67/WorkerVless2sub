@@ -41,7 +41,7 @@ let MamaJustKilledAMan = ['telegram', 'twitter', 'miaoko'];
 let proxyIPPool = [];
 let socks5Data;
 let alpn = 'h3';
-let 網路備案 = `<a href='https://t.me/CMLiussss'>萌ICP備-20240707號</a>`;//寫你自己的維護者廣告
+let 網路備案 = `<a href='https://hamval.cloudns.be'>Minecraft 優質床戰伺服器</a>`;//寫你自己的維護者廣告
 let 額外ID = '0';
 let 加密方式 = 'auto';
 let 網站圖示, 網站頭像, 網站背景;
